@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lou-zantipi
-- 👀 I’m interested in machine learning, statistics and 
+- 👀 I’m interested in machine learning, statistics
 - 🌱 I’m currently learning about calculus
 - 📫 How to reach me - louise.cuming@gmail.com
 
